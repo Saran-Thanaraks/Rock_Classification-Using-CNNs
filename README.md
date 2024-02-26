@@ -22,4 +22,4 @@ Set Up Step
 Training step
 1. Run clean.ipynb to clean dataset
 2. Run Augmentation.ipynb if you want to augment dataset.
-3. Run ViT.ipynb/Aug_ViT.ipynb(Augmentation needed) for training
+3. Run Xception.ipynb/Aug_Xception.ipynb(Augmentation needed) for training
