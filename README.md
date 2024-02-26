@@ -17,6 +17,7 @@ Set Up Step
    - seaborn                      0.13.0
    - tensorflow                   2.8.0
    - protobuf                     3.20.3
+
   
 
 Training step
